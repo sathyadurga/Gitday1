@@ -10,6 +10,8 @@ public class GitDay1 {
 		git.Addition();
 		
 	}
-	
+	public void sathya() {
+		System.out.println("Hi sathya");
+	}
 
 }
