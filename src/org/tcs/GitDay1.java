@@ -10,6 +10,12 @@ public class GitDay1 {
 		git.Addition();
 		
 	}
-	
+	public void durga() {
+		System.out.println("hi durga");
+	}
 
+	public void saro() {
+		// TODO Auto-generated method stub
+
+	}
 }
