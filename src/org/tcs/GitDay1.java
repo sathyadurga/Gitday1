@@ -14,4 +14,7 @@ public class GitDay1 {
 		System.out.println("hi durga");
 	}
 
+	public void saro() {
+         System.out.println("hi saroo");
+	}
 }
