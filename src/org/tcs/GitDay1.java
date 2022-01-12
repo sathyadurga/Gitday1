@@ -15,7 +15,6 @@ public class GitDay1 {
 	}
 
 	public void saro() {
-		// TODO Auto-generated method stub
-
+         System.out.println("hi saroo");
 	}
 }
